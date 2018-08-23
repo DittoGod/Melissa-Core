@@ -19,7 +19,7 @@ setup(
     long_description=long_description,
     author='Tanay Pant',
     author_email='tanay1337@gmail.com',
-    url='https://github.com/Melissa-AI/Melissa-Core/',
+    url='https://github.com/DittoGod/Melissa-Core/',
     license="MIT",
     packages=find_packages(),
     package_data={'': ['LICENSE.md', 'README.rst']
