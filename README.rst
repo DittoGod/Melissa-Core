@@ -38,11 +38,12 @@ Licence
 `The MIT License
 (MIT) <https://github.com/Melissa-AI/Melissa-Core/blob/master/LICENSE.md>`__
 
-.. |Build Status| image:: https://api.travis-ci.org/Melissa-AI/Melissa-Core.svg?branch=master
-   :target: https://travis-ci.org/Melissa-AI/Melissa-Core/
-.. |Codacy Badge| image:: https://api.codacy.com/project/badge/Grade/b1394316e9eb40bbbf51a12530c4f86d
+.. |Build Status| image:: https://api.travis-ci.org/DittoGod/Melissa-Core.svg?branch=master
+   :target: https://travis-ci.org/DittoGod/Melissa-Core/
+.. |Codacy Badge| image:: https://api.codacy.com/project/badge/Grade/0b180f8f748a416db57f392a9f887300
    :target: https://www.codacy.com/app/tanay1337/Melissa-Core?utm_source=github.com&utm_medium=referral&utm_content=Melissa-AI/Melissa-Core&utm_campaign=Badge_Grade
-.. |codecov.io| image:: http://codecov.io/github/Melissa-AI/Melissa-Core/coverage.svg?branch=master
-   :target: http://codecov.io/github/Melissa-AI/Melissa-Core?branch=master
+.. |codecov.io| image:: http://codecov.io/github/DittoGod/Melissa-Core/coverage.svg?branch=master
+   :target: http://codecov.io/github/DittoGod/Melissa-Core?branch=master
 .. |Join the chat at https://gitter.im/Melissa-AI/Melissa-Core| image:: https://badges.gitter.im/Melissa-AI/Melissa-Core.svg
    :target: https://gitter.im/Melissa-AI/Melissa-Core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+   
